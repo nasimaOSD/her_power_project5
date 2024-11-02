@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main-page{
+    background-color:#101017 ;
+    width: 1366px;
+    height: 4068px;
+    top: -2035px;
+    left: -683px;
+    margin: auto;
+
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-ber{
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    padding: 30px;
+    font-size:20px;
+    color:#FFFFFF ;
+}
+button{  
+    padding-bottom: 20px;
+    width: 88px;
+    height: 38px;
+    background-color: #101017;
+    color: #FFFFFF;
+    font-size: 20px;
+    border: 2px solid;
+
+}
+
+.head{ 
+     padding: 20px; 
+    margin-top: 100px;
+    width: 769px;
+    height: 394px;
+    top: 174px;
+    left: 123px;
+    gap: 58px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+h2{  padding: 50px;
+    height: 68px;
+    width: 340px;
+    color: #079211;
+    padding-left: 20px;
+
+}
+h1{  padding: 0px;
+    padding-left: 20px;
+    width: 751px;
+    height: 94px;
+    color:#FFFFFF ;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{ 
+    width: 550px;
+    height: 82px;
+    font-size: 16px;
+    color: #808080;
+    padding-left: 20px;
+   
+} 
+.bttn{
+    margin: 20px;
+}
+.but1{
+    background-color: #079211;
+    width: 136px;
+   align-items: center; 
+   padding-left: 20px;
+}
+.but2{
+   width:154px;
+padding-left: 20px;
+margin: 20px;
+}
+
+.textt{
+    display: flex; 
+}
+.textt h2{ 
+    justify-content: space-between;
+    padding-top: 20px;
+   margin: 0px;
+} 
+.textt p{
+    justify-content: space-between;
+    padding: 20px;
+    margin: 20px; display: flex;
+} 
+
+#services {
+    padding: 70px 0px;
+    text-align: center;
+}
+
+#services h2 {
+    font-size:30px;
+    color: #66FF66;
+    margin: 80px;
+    padding-right: 30px; text-align: center;
+}
+
+.service {
+    background-color: #1E1E1E;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    width: 360px;
+    vertical-align: top;
+    border-radius: 8px;
+}
+
+.service h3 {
+    color: #66FF66;
+    font-size: 24px;
+} 
+.service p{
+    font-size: 10px; 
+  height:107px;
+  width: 310px;
+  gap: 18px;
+  padding: 20px;
+
+}
+
+    
+
+
+
+
+
+
+
